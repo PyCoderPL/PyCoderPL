@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Martin and I'm from Poland 🇵🇱
 - 👀 I’m interested in programming and cycling 🚴
-- 🌱 I’m currently learning MEAN stack
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on challenging projects that will allow me to become a professional programmer
 - 📫 How to reach me: Just send me a message via github
 
