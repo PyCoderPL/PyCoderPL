@@ -10,7 +10,7 @@
 - Bootstrap landing page: http://adrespect.server054599.nazwa.pl/
 - PHP login system: http://phpooploginsystem.server054599.nazwa.pl/
 
-My portfolio: http://portfolio.server054599.nazwa.pl/
+⭐ My portfolio: http://portfolio.server054599.nazwa.pl/ 👈
 
 <!---
 PyCoderPL/PyCoderPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
