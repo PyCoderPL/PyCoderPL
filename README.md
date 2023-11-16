@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on challenging projects that will allow me to become a professional programmer
 - 📫 How to reach me: Just send me a message via github
 
+**My projects on my private hosting:**
+- PHP online store: simplestore.server054599.nazwa.pl/
+- Symfony ToDo App: todoapp.server054599.nazwa.pl/public/index.php/lists/
+- Bootstrap landing page: adrespect.server054599.nazwa.pl/
+- PHP login system: phpooploginsystem.server054599.nazwa.pl/
+- 
+
 My portfolio: http://portfolio.server054599.nazwa.pl/
 
 <!---
