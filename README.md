@@ -5,11 +5,10 @@
 - 📫 How to reach me: Just send me a message via github
 
 **My projects on my private hosting:**
-- PHP online store: simplestore.server054599.nazwa.pl/
-- Symfony ToDo App: todoapp.server054599.nazwa.pl/public/index.php/lists/
-- Bootstrap landing page: adrespect.server054599.nazwa.pl/
-- PHP login system: phpooploginsystem.server054599.nazwa.pl/
-- 
+- PHP online store: http://simplestore.server054599.nazwa.pl/
+- Symfony ToDo App: http://todoapp.server054599.nazwa.pl/public/index.php/lists/
+- Bootstrap landing page: http://adrespect.server054599.nazwa.pl/
+- PHP login system: http://phpooploginsystem.server054599.nazwa.pl/
 
 My portfolio: http://portfolio.server054599.nazwa.pl/
 
